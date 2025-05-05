@@ -10,7 +10,7 @@ Culturology — это веб-приложение, позволяющее по�
 
 ## 🚀 Установка и запуск
 ### 📦 Клонирование репозитория
-```
+```bash
 git clone https://github.com/1he0den/Culturology-nFactorial-task.git
 cd Culturology-nFactorial-task
 ```
